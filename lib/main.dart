@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 
 class StateTeksUtama extends State<TeksUtama> {
   var listNama = [
+    'Apik Maulidah Purnaningsih',
     'Sri Mulyaningsih',
     'Irham Maulana',
-    'Apik Maulidah Purnaningsih',
     'Salsabila Ika Nur Rohmah',
     'Septiani Putri',
     'Riki Nur Alim',
